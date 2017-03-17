@@ -1,0 +1,24 @@
+C:\Users\ringo\Documents\Visual Studio 2008\Projects\CNSGradeInquiry\CNSGradeInquiry\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ringo\Documents\Visual Studio 2008\Projects\CNSGradeInquiry\CNSGradeInquiry\obj\Debug\CNSGradeInquiry.Grade.resources
+C:\Users\ringo\Documents\Visual Studio 2008\Projects\CNSGradeInquiry\CNSGradeInquiry\obj\Debug\CNSGradeInquiry.Main.resources
+C:\Users\ringo\Documents\Visual Studio 2008\Projects\CNSGradeInquiry\CNSGradeInquiry\obj\Debug\CNSGradeInquiry.Resources.resources
+C:\Users\ringo\Documents\Visual Studio 2008\Projects\CNSGradeInquiry\CNSGradeInquiry\obj\Debug\CNSGradeInquiry.vbproj.GenerateResource.Cache
+C:\Users\ringo\Documents\Visual Studio 2008\Projects\CNSGradeInquiry\CNSGradeInquiry\bin\Debug\CNSGradeInquiry.exe.config
+C:\Users\ringo\Documents\Visual Studio 2008\Projects\CNSGradeInquiry\CNSGradeInquiry\bin\Debug\CNSGradeInquiry.exe
+C:\Users\ringo\Documents\Visual Studio 2008\Projects\CNSGradeInquiry\CNSGradeInquiry\bin\Debug\CNSGradeInquiry.pdb
+C:\Users\ringo\Documents\Visual Studio 2008\Projects\CNSGradeInquiry\CNSGradeInquiry\bin\Debug\CNSGradeInquiry.xml
+C:\Users\ringo\Documents\Visual Studio 2008\Projects\CNSGradeInquiry\CNSGradeInquiry\obj\Debug\CNSGradeInquiry.exe
+C:\Users\ringo\Documents\Visual Studio 2008\Projects\CNSGradeInquiry\CNSGradeInquiry\obj\Debug\CNSGradeInquiry.xml
+C:\Users\ringo\Documents\Visual Studio 2008\Projects\CNSGradeInquiry\CNSGradeInquiry\obj\Debug\CNSGradeInquiry.pdb
+C:\Users\rcdulay.SIKATUNA\Desktop\CNSGradeInquiry\CNSGradeInquiry\bin\Debug\CNSGradeInquiry.exe.config
+C:\Users\rcdulay.SIKATUNA\Desktop\CNSGradeInquiry\CNSGradeInquiry\obj\Debug\CNSGradeInquiry.exe
+C:\Users\rcdulay.SIKATUNA\Desktop\CNSGradeInquiry\CNSGradeInquiry\obj\Debug\CNSGradeInquiry.xml
+C:\Users\rcdulay.SIKATUNA\Desktop\CNSGradeInquiry\CNSGradeInquiry\obj\Debug\CNSGradeInquiry.pdb
+C:\Users\rcdulay.SIKATUNA\Desktop\CNSGradeInquiry\CNSGradeInquiry\bin\Debug\CNSGradeInquiry.exe
+C:\Users\rcdulay.SIKATUNA\Desktop\CNSGradeInquiry\CNSGradeInquiry\bin\Debug\CNSGradeInquiry.pdb
+C:\Users\rcdulay.SIKATUNA\Desktop\CNSGradeInquiry\CNSGradeInquiry\bin\Debug\CNSGradeInquiry.xml
+C:\Users\rcdulay.SIKATUNA\Desktop\CNSGradeInquiry\CNSGradeInquiry\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rcdulay.SIKATUNA\Desktop\CNSGradeInquiry\CNSGradeInquiry\obj\Debug\CNSGradeInquiry.Grade.resources
+C:\Users\rcdulay.SIKATUNA\Desktop\CNSGradeInquiry\CNSGradeInquiry\obj\Debug\CNSGradeInquiry.Main.resources
+C:\Users\rcdulay.SIKATUNA\Desktop\CNSGradeInquiry\CNSGradeInquiry\obj\Debug\CNSGradeInquiry.Resources.resources
+C:\Users\rcdulay.SIKATUNA\Desktop\CNSGradeInquiry\CNSGradeInquiry\obj\Debug\CNSGradeInquiry.vbproj.GenerateResource.Cache
